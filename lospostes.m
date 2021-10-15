@@ -1,11 +1,12 @@
 %Script octave
 %Title                            :Definicion y Resolucion de variables,funciones, dominio y rango
 %Description                      :Script para dar solucion al problema de los dos postes
-%Authors                          :Lorena,Devora Alejandra y Sandy Judith
+%Authors                          :Lorena Garcia Garcia, Devora Alejandra Garcia Cruz y Sandy Judith Hernandez Carlos
 %Date                             :14/10/2021
 %Carrer                           :Ingenieria en Sistemas Computacionales (ISC)
 %Version                          :1
 %Usage                            :octave/phat/lospostes
+%Group                            :3101
 %Notes                            :Se requiere de la aplicacion de Octave para poder dar solucion al problema relacionado con la optimizacion
 %                                 https:/octaveintro.rradthrdees.in/en/latrest/index.html
 
@@ -47,4 +48,4 @@ disp ('');
 disp (['Lo que se debe calcular es:', num2str(cal)]);
 disp ('');
 disp (['El valor minimo del cable es:', num2str(c(valmin))]);
-%Parte final del programa (PFP)
+%Concluir la codificacion de la resolucion del problema planteado (CCRPP)
